@@ -1,6 +1,6 @@
 
 A Python security tool with OTP email authentication that scans URLs using the VirusTotal API and allows users to block or unblock malicious websites through the Windows hosts file. Built with Custom Tkinter for a clean, interactive GUI.
-🛠️ Requirements
+Requirements
 --------------------------------------------------------------------------------------------------
 Python 3.x (preferably Python 3.8+ for best compatibility)
 
@@ -39,7 +39,7 @@ Internet connection required to query the VirusTotal API.
 Use with caution: modifying the hosts file requires administrative privileges.
 
 
-📂 Dataset / API Information
+Dataset / API Information
 ---------------------------------------------------------------------------------------------
 
 This project does not use a classic image/text dataset but relies on the VirusTotal API (or similar threat intelligence services) to scan and classify URLs as malicious or benign.
